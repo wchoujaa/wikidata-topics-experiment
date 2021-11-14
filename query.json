@@ -1,0 +1,6043 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "itemLabel",
+      "linkTo"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219067"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q376022"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2270606"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6864036"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131505"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "esotericism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q180678"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kriya Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49447"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131505"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3533467"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q245182"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6187992"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Twelve Tribes communities"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q260529"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5774518"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mitogaku"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q260529"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mitogaku"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q279438"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of technology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q382857"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "nuclear semiotics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q386423"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "African philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q484761"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of language"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488338"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "hot yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q620016"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7066"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian atheism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q620016"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6187992"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian atheism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q753132"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hellenistic philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q765304"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laughter Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q765304"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9069441"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Laughter Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q777205"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9465"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aristotelian ethics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q777205"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q263307"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aristotelian ethics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q787318"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Viniyoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q860136"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bikram Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q860136"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488338"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bikram Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q864714"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q420"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biosemiotics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q864714"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biosemiotics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q917440"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Renaissance philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q957366"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "semiology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q999259"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ancient Greek philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1054016"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Karma yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1123717"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sivananda Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129466"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q39645"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "discourse analysis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129466"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q957366"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "discourse analysis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q336"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q968159"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1387659"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2198855"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2915955"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12558574"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16895642"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1162708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22811234"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "praxeology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1187327"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28454636"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iranian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194916"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mereology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1203683"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "German philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1257388"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy and economics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1328573"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Way of the Five Pecks of Rice"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1383855"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Existential philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1422194"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Way of the Celestial Masters"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1568077"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hellenistic philosophy and Christianity"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1574822"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lingbao School"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1640336"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Critical psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1640336"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Critical psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1676109"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Iyengar Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1780085"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82622"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q1780085"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1780085"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1151067"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q1780085"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1888684"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "practical philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2002818"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Protrepsis and paraenesis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2128768"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rāja yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2189757"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016518"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q2189757"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2364399"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "American philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2629585"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of information"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3320290"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q3320290"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3461475"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sahaj Marg"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3483106"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Siddha Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4068804"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "argentine philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4205871"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q349"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "competitive yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4205871"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "competitive yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4355047"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aztec philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4371874"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "understanding psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4371874"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9418"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "understanding psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4552099"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "16th-century philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4676574"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "acroyoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4676574"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193036"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "acroyoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4693967"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "agricultural philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4751318"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ananda yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4777961"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anuyoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4810748"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7252"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4810748"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4810748"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1662673"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5068049"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104165934"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chair Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164987"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193104"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Contemporary Islamic philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5164987"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q943303"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Contemporary Islamic philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340141"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q825754"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edo Neo-Confucianism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340141"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Edo Neo-Confucianism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5367197"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dahn yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6187992"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jesuism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6778650"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28793"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marxist film theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6778650"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q929460"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marxist film theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7663878"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "systems philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7884240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Uneven and combined development"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7988482"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131505"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Western esotericism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282366"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Babylonian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282366"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28454636"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Babylonian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10406763"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "as if"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10836309"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82622"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Japanese punctuation"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9174"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46699"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "slavophilia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46699"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7257"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "slavophilia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q155772"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179235"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phenomenology of religion"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q166955"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q999259"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sophism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q170537"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feng shui"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179235"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phenomenology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q263307"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "aristotelianism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q295465"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ecosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q335429"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kundalini yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488059"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical anthropology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q488059"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23404"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical anthropology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q507417"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bhakti"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q564371"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of education"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q574489"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36118"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophic architecture"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q574489"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "anthroposophic architecture"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q574514"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anthroposophical medicine"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q574514"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188504"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anthroposophical medicine"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q591455"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Agni Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q658022"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "queer theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q658022"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1791882"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "queer theory"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q734231"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Hatha yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q836728"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q979578"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dragon Gate Taoism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q840307"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Wuliupai"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842333"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Western philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842333"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16895642"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Western philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q860746"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "modern philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q979578"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Quanzhen School"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1063038"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65064229"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Scottish Enlightenment"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1102336"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Russian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1104973"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dogmatism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1104973"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q117850"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dogmatism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1384451"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "experimental philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1392782"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q333"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "gnomonics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1392782"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q395"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "gnomonics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1392782"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q413"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "gnomonics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1392782"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "gnomonics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1404532"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1423977"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kum Nye"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1450620"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "French philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1513072"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842333"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Linguistic turn"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1545237"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Semiology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1588783"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of suicide"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1628247"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q1628247"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marxist philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1712272"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Surat Shabd Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1741327"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy in East Germany"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789511"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129466"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical discourse analysis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1789540"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1807987"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "neurophilosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1931281"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "transcendental philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2088999"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Phowa"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2464338"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of artificial intelligence"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2545700"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Anusara Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2710606"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "dru yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3300457"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of perception"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3567192"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q38066"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist existentialism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3567192"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1404532"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist existentialism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3572397"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q3572397"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3695194"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5174339"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sufi cosmology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4167862"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ancient Egyptian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4167862"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28454636"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ancient Egyptian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4204149"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Spanish philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4205248"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Italian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5174339"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192292"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cosmology in medieval Islam"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5174339"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193104"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cosmology in medieval Islam"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5174339"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2998321"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "cosmology in medieval Islam"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5219853"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Danish philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5357573"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179235"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Existential phenomenology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5481580"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192292"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sophismata"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6822987"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q596284"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "metametaphysics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7181385"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13469954"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "architectural phenomenology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7362654"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Romanian philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7449600"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Semiotics of photography"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7497757"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shinshin-tōitsu-dō"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7839802"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "TriBalance Hot Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7847650"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Trul khor"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8054334"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga for children"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8054335"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yoga of Synthesis"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8775869"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q81009"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "energeia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8775869"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q263307"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "energeia"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9565755"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q9565755"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11499141"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "political thought"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11858966"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ethnophilosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11922053"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q11922053"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13381886"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q431"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "zoosemiotics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13381886"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q864714"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "zoosemiotics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7725634"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical literature"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20669574"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical literature"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical literature"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15840879"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q726316"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Power Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17143572"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "public philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18109708"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Aerial yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19757932"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q19757932"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22909241"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Integral yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22909391"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45996"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Theosophical mysticism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22909391"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Theosophical mysticism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23808460"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q753861"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Political positions of Rodrigo Duterte"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23808460"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7162154"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Political positions of Rodrigo Duterte"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59104"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "continental philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "semiotics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8162"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "semiotics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q484761"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q74440"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shingaku"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194146"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82622"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "punctuation"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106224"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical counseling"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1888684"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106224"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical counseling"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4390239"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q119554"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Theosophy in Scandinavia"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126692"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "pragmatism"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q192292"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "medieval philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ancient philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ancient philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16895642"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q216279"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deep ecology"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1144757"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1377163"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1799072"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q376022"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q583915"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sacred geometry"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131505"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q596284"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "metaphilosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q726316"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ashtanga Vinyasa Yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q753861"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Realpolitik"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126692"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776439"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "archetypal literary criticism"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58854"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q776439"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "archetypal literary criticism"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839496"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pranayama"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847611"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biodynamic agriculture"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11451"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847611"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biodynamic agriculture"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q854783"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bhakti yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q929460"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marxist aesthetics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35986"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q929460"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Marxist aesthetics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q943303"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "contemporary philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1067834"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taiping Taoism"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1146652"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "iki"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194146"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194146"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Japanese philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1275120"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of psychology"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1326821"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "thesis novel"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016518"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1417053"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dream yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1429196"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "parallelism"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1502991"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lifeworld"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126692"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1754940"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of space and time"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016518"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical novel"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8261"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016518"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical novel"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2219679"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "reformational philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2518775"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zhengyi Dao"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2741398"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "environmental philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3271900"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Byzantine philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3290848"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of Friedrich Nietzsche"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3374849"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "complex thinking"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3745514"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Latin American philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3745515"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Roman philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4137694"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "heterophenomenology"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179235"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4141324"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "naked yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4160258"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Jivamukti Yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4285621"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mahayoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4484338"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Philosophical poets"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q482"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4484338"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Philosophical poets"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4994199"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Neo-Theosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5038338"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cardiac yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5186702"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical cartography"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q42515"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5186702"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical cartography"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5288297"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Doga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5418321"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "evidence-based education"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q564371"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5418321"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "evidence-based education"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2354820"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5470534"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Forrest Yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5862021"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "axiological philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5862036"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy in Peru"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5862039"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Soviet Marxist philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6645942"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "list of yoga schools"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6737197"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Maitreya"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6822257"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Meta-ontology"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q596284"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7186261"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Philosophy of engineering"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7186275"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of sex"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7189841"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phytosemiotics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q441"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7189841"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "phytosemiotics"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q864714"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7202435"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Platonism in the Renaissance"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q193589"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7202435"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Platonism in the Renaissance"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q917440"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7238321"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Pranava yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7439047"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "screen theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2115936"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7439047"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "screen theory"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6778650"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7684269"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoism in Japan"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7684271"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Taoism in Malaysia"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8015738"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emphasis mark"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3092208"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8015738"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emphasis mark"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6432021"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8015738"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Emphasis mark"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10836309"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8068985"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Zen yoga"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282368"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "classical philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282378"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Greco-Roman philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q204100"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282381"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Platonic-Christian philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q854807"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10282381"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Platonic-Christian philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12773916"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10548194"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mysore style"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Confucianism in Japan"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9581"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Confucianism in Japan"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1056672"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Confucianism in Japan"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1194146"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11820949"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical poem"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q474090"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11820949"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical poem"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12339708"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "transcendental phenomenology"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q179235"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12482964"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indonesian philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12773916"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Platonic philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16029146"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Syrian philosophy"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24083302"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q24083302"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25377746"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q253140"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biodynamic viticulture"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25377746"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q847611"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "biodynamic viticulture"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26928600"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "existentialist literature"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9174"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "theosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131505"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "theosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178671"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "theosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27657108"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q178934"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "theosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q29025260"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "goat yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30892495"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1129466"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "discursive psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59836368"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Women in Taoism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60851500"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Science of Identity Foundation"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65064878"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mindful Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65071603"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "early modern yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65085388"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga for women"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65091461"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "vegan studies"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q78053594"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Shinrin yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q88356174"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "analytics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89358648"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q839496"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Agni pran"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q99541875"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of life"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q104165934"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga using props"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q105858118"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "logic, computation and methodology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9418"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9465"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23404"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35986"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41630"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q50675"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397240"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207011"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Empathy. History of an idea"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108031504"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "sonic philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108583965"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dutch philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10907643"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q10907643"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11407707"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340141"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q11407707"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11411264"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9565755"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "ancient Japanese philology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11622266"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340141"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Satsunan school"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12055497"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q943303"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q12055497"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13420377"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bando yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13469954"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of architecture"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14362401"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q14362401"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16255854"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yoga for Movement Disorders"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16689523"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82622"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q16689523"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17070318"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yin yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18110094"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q697205"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q18110094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18110094"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q18110094"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19060354"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q188504"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the secret practice"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19060354"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1068640"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the secret practice"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19060354"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7988482"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "the secret practice"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19899073"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Strala yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20043954"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5340141"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q20043954"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20920502"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nordic philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23306955"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophy of work"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24963784"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q301751"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical animal studies"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24963784"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4764988"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "critical animal studies"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26979561"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Somatic Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28454636"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Middle Eastern philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31086271"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mantra yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55635660"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Christian theosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q56298686"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "animal philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65044666"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga in the United States"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65091595"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "yoga as exercise"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67200374"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2016518"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "existentialist novel"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q67200374"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q26928600"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "existentialist novel"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q84266661"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "bionomics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397616"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good are born, ethical subjects are made"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397616"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9418"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good are born, ethical subjects are made"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397616"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23364"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good are born, ethical subjects are made"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397616"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41630"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good are born, ethical subjects are made"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106397616"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q207011"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Good are born, ethical subjects are made"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106626825"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q46158"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q106626825"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106626825"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2741398"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q106626825"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16969198"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "PiYo"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17002034"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q35986"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist aesthetics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17002034"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1404532"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "feminist aesthetics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17031218"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lushan School"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17055687"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Yao Taoism"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17056691"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "integral psychology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18160095"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184663"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Marxist philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18160095"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1639471"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chinese Marxist philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19882002"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "AntiGravity Fitness"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737410"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical fable"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737410"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17991521"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical fable"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737410"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical fable"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical fiction"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8253"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical fiction"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21075540"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q21075540"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23035780"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59115"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "history and philosophy of science and technology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23035780"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q279438"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "history and philosophy of science and technology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23035780"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2183341"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "history and philosophy of science and technology"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24906636"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9350"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Core Strength Vinyasa Yoga"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30337832"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60195"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "signalistics"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55524423"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11505780"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q55524423"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q60061504"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184719"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q60061504"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q65064229"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Scottish philosophy"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q96066292"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q96066292"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98810104"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49084"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical short story"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98810104"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q13408937"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical short story"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q98810104"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20737414"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "philosophical short story"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102238487"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9598"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daoist statue"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q102238487"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15733922"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Daoist statue"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106328936"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The animal I am therefore"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q106328936"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q842333"
+        },
+        "itemLabel": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "The animal I am therefore"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108803926"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q108803926"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108803939"
+        },
+        "linkTo": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5891"
+        },
+        "itemLabel": {
+          "type": "literal",
+          "value": "Q108803939"
+        }
+      }
+    ]
+  }
+}
